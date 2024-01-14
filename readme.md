@@ -11,5 +11,5 @@ experience
 All plugins are available in the client side plugin list if this plugins have been accepted
 
 ## Development
-Clone this repo: https://github.com/Vendicated/Vencord
+Clone this repo: https://github.com/Vendicated/Vencord  
 Create folder src/userplugins/{your_plugin_name} and index.{js|ts|tsx} file inside
