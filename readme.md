@@ -12,4 +12,5 @@ All plugins are available in the client side plugin list if this plugins have be
 
 ## Development
 Clone this repo: https://github.com/Vendicated/Vencord  
-Create folder src/userplugins/{your_plugin_name} and index.{js|ts|tsx} file inside
+Create folder src/userplugins/{your_plugin_name} and index.{js|ts|tsx} file inside  
+Build Vencord and launch him: «yarn inject»
